@@ -10,6 +10,7 @@ main()
   cout << sizeof(num) << endl;
   cout << sizeof(name) << endl;
   cout << sizeof(status) << endl;
+  //this comment
 
 
   return 0;
